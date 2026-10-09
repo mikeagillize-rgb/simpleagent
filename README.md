@@ -12,4 +12,4 @@ pip install -r requirements.txt
 #executar
 python main.py
 
-OBS: Colocar TOKEN GEMINI, TOKEN HIGGINGFACE no .env
+OBS: Colocar TOKEN GEMINI, TOKEN HUGGINGFACE no .env
